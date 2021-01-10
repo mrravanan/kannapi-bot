@@ -5,7 +5,7 @@
 > pkg install git
 > pkg install ffmpeg 
 > pkg install nodejs 
-> git clone 
-> cd arr157bot 
+> git clone https://github.com/mrravanan/kannapi-bot.git
+> cd kannapi-bot
 > npm i
 > node index.js
