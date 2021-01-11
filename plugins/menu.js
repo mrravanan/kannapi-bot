@@ -15,7 +15,7 @@ Rec: ~Mr.ravanan
 *╔ ═〘 FU MENU 〙╗*
 ☠️${_p}qr <teks>
 ☠️${_p}sticker (your image)
-☠️${_p}bucin
+
 ╚ ═════════════╝
 
 *╔ ═〘 INFORMACAO 〙╗*
