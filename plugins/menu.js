@@ -1,7 +1,7 @@
 let handler  = async (m, { conn, usedPrefix: _p }) => {
   conn.reply(m.chat, `
-കണ്ണാപ്പി  BOT🤖
-Rec: ~Mr.ravanan
+DUNDU XS  BOT🤖
+    *CYBER PIRATE*
 
 ➸ Prefix:  *「 ${_p} 」*
 ➸ Status: *「 Online 」*
@@ -36,7 +36,7 @@ Rec: ~Mr.ravanan
 ☠️${_p}pengumuman <teks>
 ☠️${_p}hidetag <teks>
 ☠️${_p}listonline [groupid]
-☠️${_p}grouplist
+
 
 *「 EXPERIMENTAL 」*
 [kode login jika ada / kosongin]
@@ -46,13 +46,11 @@ Jangan Lupa Scan QR
 > return m 'javascript eval' + m.sender
 
 =======*「 INFO 」*=======
-  卍MR.RAVANANᬊ᭄
+  *CYBER PIRATE*
 =========================
-YouTube: 
-https://youtube.com/c/MrRavanan
 
-CRIADOR:
-*Wa.me//+919048410619*
+
+
 ==================
 `.trim(), m)
 }
